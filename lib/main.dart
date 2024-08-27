@@ -37,7 +37,6 @@ class _MyHomePageState extends State<MyHomePage> {
     Currency.eur,
     Currency.inr,
     Currency.brl,
-    // Adicione mais moedas conforme necessário
   ];
 
   Currency _fromCurrency = Currency.usd;
